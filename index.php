@@ -5,13 +5,14 @@
 
 	<?php 
 	include_once 'config/config.php';
+	include_once './common.inc.php';
 	 ?>
 
 	 <link rel="stylesheet" type="text/css" href="css/index.css">
 
 </head>
 <body>
-	<?php include_once 'config/header.php'; ?>
+	<?php include_once 'config/header.skin.php'; ?>
 	<div class="main">
 		<div class="main_section_items">
 			<div class="main_section_item">
@@ -26,8 +27,7 @@
 						<li>Linux ( server )</li>
 					</ul>
 					<?php 
-					echo $_SERVER['HTTP_HOST'];
-					echo $_SERVER['REQUEST_URI'];
+					
 					 ?>
 				</p>
 			</div>
