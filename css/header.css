@@ -1,5 +1,7 @@
 body {
   margin: 0px;
+  background-color: rgb(242, 242, 242);
+  color: black;
 }
 
 .header_section {
@@ -15,4 +17,19 @@ body {
   padding: 0.8em;
   text-decoration: none;
   color: white;
+}
+
+.header_section_items {
+  background-color: white;
+  display: flex;
+}
+
+.header_section_item {
+  margin: 0 auto;
+}
+
+.header_section_item img {
+  padding: 10px 0 10px 0;
+  width: 40px;
+  height: 40px;
 }
