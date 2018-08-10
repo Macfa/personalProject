@@ -10,7 +10,7 @@
   </div>
 
   <div class="header_section_items">
-    <div class="header_section_item"><a href="#"><img src="asset/server.png" alt="#asdasd" title="Server"></a></div>
+    <div class="header_section_item"><a href="#"><img src=<?php echo $server_path; ?>"asset/server.png" alt="#asdasd" title="Server"></a></div>
     <div class="header_section_item"><a href="#"><img src="asset/frontend.png" alt="frontend" title="html, css, js"></a></div>
   </div>
 </div>
