@@ -1,12 +1,12 @@
 <div class="header">
   <div class="header_section">
     <div class="header_section_list"><a href="/">Home</a></div>
-    <div class="header_section_list"><a href="pro.php">Project</a></div>
-    <div class="header_section_list"><a href="#">Tech</a></div>
-    <div class="header_section_list"><a href="#">Youtube</a></div>
-    <div class="header_section_list"><a href="#">Server</a></div>
-    <div class="header_section_list"><a href="#">Tool</a></div>
-    <div class="header_section_list"><a href="./login.php">Account</a></div>
+    <!-- <div class="header_section_list"><a href="pro.php">Project</a></div> -->
+    <!-- <div class="header_section_list"><a href="#">Tech</a></div> -->
+    <!-- <div class="header_section_list"><a href="#">Youtube</a></div> -->
+    <div class="header_section_list"><a href="./life.php">Life</a></div>
+    <div class="header_section_list"><a href="./tool.php">Tool</a></div>
+    <!-- <div class="header_section_list"><a href="./login.php">Account</a></div> -->
   </div>
 
   <div class="header_section_items">
