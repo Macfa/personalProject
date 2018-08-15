@@ -3,16 +3,12 @@
 <div class="main">
 	<div class="main_section_items">
 		<div class="main_section_item">
-			<h2>환영합니다.</h2>
-			<p>
-			공고생의 블로그입니다.
-			</p>
-		</div>
-		<div class="main_section_item">
 			<h2>Contact</h2>
 			<p>
-				git : https://github.com/Macfa/macfa.github.io <br>
-				slack : personalProject-talk
+				Github : https://github.com/Macfa/macfa.github.io <br>
+				Slack : personalProject-talk <br>
+				Mail : kombo6768@gmail.com <br>
+				
 			</p>
 		</div>
 	</div>
